@@ -171,8 +171,17 @@ class: middle
 
 ## Seriously though, check this out 
 
-Mrs. Sarah Eager<br>interviewed by WOAI San Antonio<br>in February 1942
-<br>on her 100th birthday
+<iframe width="560" height="315" src="https://www.youtube.com/embed/buQENTEV7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> .small[Mrs. Sarah Eager, interviewed by WOAI San Antonio<br>in February 1942 on her 100th birthday] 
+
+---
+class: middle
+
+## *News of the World* with Tom Hanks (2021)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zTZDb_iKooI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 class: center, middle
