@@ -16,7 +16,7 @@ output:
 ---
 layout: true
 
-<div class="my-footer"><span class="highlight-front">slides:&emsp;<a href="https://bit.ly/hinrichs-hh-slides">bit.ly/hinrichs-hh-slides</a>&emsp;|&emsp;web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
+<div class="my-footer"><span class="highlight-front">slides:&emsp;<a href="http://bit.ly/hinrichs-research">bit.ly/hinrichs-research</a>&emsp;|&emsp;web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
 
 ---
 class: middle
@@ -157,8 +157,15 @@ class: inverse, center, middle
 # Variation & Change in Texas English
 
 ---
+background-image: url("tell_collections.png")
+background-size: contain
 
-<iframe width=95% height=90% src="https://sites.google.com/view/tell-archive/about" />
+
+
+---
+class: center, middle
+
+## [The Willard Collection](https://sites.google.com/view/tell-archive/about)
 
 ---
 
