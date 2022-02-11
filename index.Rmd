@@ -59,8 +59,8 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 ## Outline
 
 1. Diaspora Sociolinguistics
-1. Variation & Change in Texas English
-1. Digital Text Analysis
+1. Variation & change in Texas English
+1. E 382J/INF 385T Digital Text Analysis
 
 ---
 class: inverse, center, middle
@@ -90,10 +90,9 @@ class: center
 
 <img src="jsoc.png" width=67% />
 
-
 ---
-background-image: url("jsoc_intro.png")
-background-size: cover
+background-image: url("jsoc_content.png")
+background-size: contain
 
 ---
 class: middle
@@ -154,7 +153,7 @@ What kind of new variety does this specific contact situation generate?
 ---
 class: inverse, center, middle
 
-# Variation & Change in Texas English
+# Variation & change in Texas English
 
 ---
 background-image: url("tell_collections.png")
@@ -168,6 +167,66 @@ class: center, middle
 ## [The Willard Collection](https://sites.google.com/view/tell-archive/about)
 
 ---
+class: middle
+
+## Seriously though, check this out 
+
+Mrs. Sarah Eager<br>interviewed by WOAI San Antonio<br>in February 1942
+<br>on her 100th birthday
+
+---
+class: center, middle
+
+## Happening in different varieties of AmE:<br>Low Back Merger + Low Back Merger Shift
+
+<img src="lbms.jpeg" width=590 />
+
+---
+
+## Is it happening in TxE?
+
+---
+class: center
+
+<img src="lbm.png" width=65% />
+
+.small[Bohmann & Hinrichs (2021), based on ca. 90,000 vowel tokens]
+
+---
+
+## Questions from the literature
+
+.pull-left[
+
+### LBM
+
+- phonological
+- by transmission 
+- "messy"
+
+]
+
+--
+
+.pull-right[
+
+### LBMS
+
+- phonetic
+- by diffusion
+- "clean"
+
+]
 
 
+### If not this, then what? 
+
+---
+class: inverse, middle, ceneter
+
+# E 382J/INF 385T Digital Text Analysis
+
+---
+background-image: url(dta.png)
+background-size: cover
 
