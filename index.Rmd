@@ -6,7 +6,7 @@ author:
 date: "Feb-11-2022"
 output:
   xaringan::moon_reader:
-    css: [xaringan-themer.css, footer-header.css]
+    css: [xaringan-themer.css, footer-header.css, my_theme.css]
     nature:
       slideNumberFormat: "%current%"
       highlightStyle: github
@@ -105,3 +105,62 @@ The global turn in anthropology [...] brought the initially marginal and challen
 ]]
 
 ---
+class: middle, center
+
+## My research in diasporic sociolinguistics
+
+---
+
+# Toronto Jamaican Speech
+
+.pull-left[
+### The community
+- Jamaicans: 3.5% of Toronto's population
+- The largest (→iconic) Black Canadian group
+- In G2: Canadian-born, but culturally Jamaican (?)
+]
+
+--
+
+.pull-right[
+### Bicultural identities and dialect contact
+
+- identity hybridity
+- situational alternation
+- identity conflict
+
+.small[Comănaru, R., K. Noels, and J. Dewaele. “Bicultural Identity Orientation of Immigrants to Canada.” *Journal of Multiling. & Multicult. Dev.* 39, no. 6: 526–41.]
+]
+
+---
+
+# Toronto Jamaican Speech
+
+.pull-left[
+### Stylistic questions
+
+How do individual factors such as identity orientation correspond to sociolinguistic style? 
+
+]
+
+--
+
+.pull-right[
+### Contact linguistic questions
+
+What kind of new variety does this specific contact situation generate?
+]
+
+---
+class: inverse, center, middle
+
+# Variation & Change in Texas English
+
+---
+
+<iframe width=95% height=90% src="https://archive.texasenglish.org/about" />
+
+---
+
+
+
