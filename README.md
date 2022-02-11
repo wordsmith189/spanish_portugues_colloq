@@ -1,3 +1,7 @@
-# spanish_portugues_colloq
+Spanish & Portuguese Research Colloquium
+================
+Lars Hinrichs<br />English Department, UT Austin
+<br>Feb-11-2022
 
-this is readme
+[<img src="slide1.png" width=400 />]()<br>Click image to view the
+slideshow.

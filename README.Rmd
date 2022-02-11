@@ -1,0 +1,14 @@
+---
+title: "Spanish & Portuguese Research Colloquium"
+output: github_document
+date: "<br>Feb-11-2022"
+author: "Lars Hinrichs<br />English Department, UT Austin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+[<img src="slide1.png" width=400 />]()<br>Click image to view the slideshow.
+
