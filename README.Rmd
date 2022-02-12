@@ -10,5 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-[<img src="slide1.png" width=400 />](https://bit.ly/hinrichs-research)<br>Click image to view the slideshow.
+[<img src="slide1.png" width=400 />](https://hinrichs-research.netlify.app/)<br>Click image to view the slideshow.
 

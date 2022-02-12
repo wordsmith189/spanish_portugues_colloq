@@ -16,7 +16,7 @@ output:
 ---
 layout: true
 
-<div class="my-footer"><span class="highlight-front">slides:&emsp;<a href="http://bit.ly/hinrichs-research">bit.ly/hinrichs-research</a>&emsp;|&emsp;web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
+<div class="my-footer"><span class="highlight-front">slides:&emsp;<a href="http://hinrichs-research.netlify.app">hinrichs-research.netlify.app</a>&emsp;|&emsp;web:&emsp;<a href="https://larshinrichs.site">larshinrichs.site</a></span></div> 
 
 ---
 class: middle
